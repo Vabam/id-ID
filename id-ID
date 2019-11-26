@@ -290,38 +290,38 @@ STR_0906    :{SMALLFONT}{BLACK}Lurus
 STR_0907    :Tanjakan
 STR_0908    :Roll/Banking
 STR_0909    :Seat Rot.
-STR_0910    :{SMALLFONT}{BLACK}Roll for left-hand curve
-STR_0911    :{SMALLFONT}{BLACK}Roll for right-hand curve
-STR_0912    :{SMALLFONT}{BLACK}No roll
-STR_0913    :{SMALLFONT}{BLACK}Move to previous section
-STR_0914    :{SMALLFONT}{BLACK}Move to next section
-STR_0915    :{SMALLFONT}{BLACK}Construct the selected section
-STR_0916    :{SMALLFONT}{BLACK}Remove the highlighted section
-STR_0917    :{SMALLFONT}{BLACK}Vertical drop
-STR_0918    :{SMALLFONT}{BLACK}Steep slope down
-STR_0919    :{SMALLFONT}{BLACK}Slope down
+STR_0910    :{SMALLFONT}{BLACK}Roll untuk lekukan tangan kiri
+STR_0911    :{SMALLFONT}{BLACK}Roll untuk lekukan tangan kanan
+STR_0912    :{SMALLFONT}{BLACK}Tidak ada roll
+STR_0913    :{SMALLFONT}{BLACK}Pindah ke sesi sebelumnya
+STR_0914    :{SMALLFONT}{BLACK}Pindah ke sesi selanjutnya
+STR_0915    :{SMALLFONT}{BLACK}Bangun sesi yang dipilih
+STR_0916    :{SMALLFONT}{BLACK}Lepas sesi yang disorot
+STR_0917    :{SMALLFONT}{BLACK}Turunan vertikal
+STR_0918    :{SMALLFONT}{BLACK}Turunan curam
+STR_0919    :{SMALLFONT}{BLACK}Turunan
 STR_0920    :{SMALLFONT}{BLACK}Level
-STR_0921    :{SMALLFONT}{BLACK}Slope up
-STR_0922    :{SMALLFONT}{BLACK}Steep slope up
-STR_0923    :{SMALLFONT}{BLACK}Vertical rise
-STR_0924    :{SMALLFONT}{BLACK}Helix down
-STR_0925    :{SMALLFONT}{BLACK}Helix up
-STR_0926    :Can't remove this...
-STR_0927    :Can't construct this here...
-STR_0928    :{SMALLFONT}{BLACK}Chain lift, to pull cars up slopes
-STR_0929    :'S' Bend (left)
-STR_0930    :'S' Bend (right)
-STR_0931    :Vertical Loop (left)
-STR_0932    :Vertical Loop (right)
-STR_0933    :Raise or lower land first
-STR_0934    :Ride entrance in the way
-STR_0935    :Ride exit in the way
-STR_0936    :Park entrance in the way
-STR_0937    :{SMALLFONT}{BLACK}View options
-STR_0938    :{SMALLFONT}{BLACK}Adjust land height and slope
-STR_0939    :Underground/Inside View
-STR_0940    :Hide Base Land
-STR_0941    :Hide Vertical Faces
+STR_0921    :{SMALLFONT}{BLACK}Tanjakan
+STR_0922    :{SMALLFONT}{BLACK}Tanjakan curam
+STR_0923    :{SMALLFONT}{BLACK}Tanjakan vertikal
+STR_0924    :{SMALLFONT}{BLACK}Helix bawah
+STR_0925    :{SMALLFONT}{BLACK}Helix atas
+STR_0926    :Tidak bisa melepaskan ini...
+STR_0927    :Tidak bisa membangun ini disini...
+STR_0928    :{SMALLFONT}{BLACK}Chain lift, untuk menarik kereta dari tanjakan
+STR_0929    :Belokan 'S' (kiri)
+STR_0930    :Belokan 'S' (kanan)
+STR_0931    :Loop Vertikal (kiri)
+STR_0932    :Loop Vertikal (kanan)
+STR_0933    :Naik atau turunkan tanah terlebih dahulu
+STR_0934    :Pintu masuk wahana menghalangi
+STR_0935    :Pintu keluar wahana menghalangi
+STR_0936    :Pintu masuk taman menghalangi
+STR_0937    :{SMALLFONT}{BLACK}Lihat pengaturan
+STR_0938    :{SMALLFONT}{BLACK}Atur tinggi tanah dan lereng
+STR_0939    :Penglihatan Bawah tanah/Dalam bangunan
+STR_0940    :Sembunyikan Permukaan Tanah Dasar
+STR_0941    :Sembunyikan Permukaan Tanah Vertikal
 STR_0942    :See-Through Rides
 STR_0943    :See-Through Scenery
 STR_0944    :Save
