@@ -322,20 +322,20 @@ STR_0938    :{SMALLFONT}{BLACK}Atur tinggi tanah dan lereng
 STR_0939    :Penglihatan Bawah tanah/Dalam bangunan
 STR_0940    :Sembunyikan Permukaan Tanah Dasar
 STR_0941    :Sembunyikan Permukaan Tanah Vertikal
-STR_0942    :See-Through Rides
-STR_0943    :See-Through Scenery
-STR_0944    :Save
-STR_0945    :Don't Save
-STR_0946    :Cancel
-STR_0947    :Save this before loading ?
-STR_0948    :Save this before quitting ?
-STR_0949    :Save this before quitting ?
-STR_0950    :Load Game
-STR_0951    :Quit Game
-STR_0952    :Quit Game
-STR_0953    :Load Landscape
+STR_0942    :Wahana Tembus Pandang
+STR_0943    :Objek Hiasan Tembus Pandang
+STR_0944    :Simpan
+STR_0945    :Jangan Simpan
+STR_0946    :Batal
+STR_0947    :Simpan game kali ini sebelum memuat ?
+STR_0948    :Simpan game kali ini sebelum keluar ?
+STR_0949    :Simpan game kali ini sebelum keluar ?
+STR_0950    :Muat Game
+STR_0951    :Keluar Game
+STR_0952    :Keluar Game
+STR_0953    :Muat Landscape
 STR_0954    :
-STR_0955    :{SMALLFONT}{BLACK}Select seat rotation angle for this track section
+STR_0955    :{SMALLFONT}{BLACK}Pilih sudut rotasi kursi pada sesi jalur ini
 STR_0956    :-180°
 STR_0957    :-135°
 STR_0958    :-90°
@@ -352,49 +352,49 @@ STR_0968    :+360°
 STR_0969    :+405°
 STR_0970    :+450°
 STR_0971    :+495°
-STR_0972    :Cancel
+STR_0972    :Batal
 STR_0973    :OK
-STR_0974    :Rides
-STR_0975    :Shops and Stalls
-STR_0976    :Toilets and Information Kiosks
-STR_0977    :New Transport Rides
-STR_0978    :New Gentle Rides
-STR_0979    :New Roller Coasters
-STR_0980    :New Thrill Rides
-STR_0981    :New Water Rides
-STR_0982    :New Shops & Stalls
-STR_0983    :Research & Development
+STR_0974    :Wahana
+STR_0975    :Toko dan Kios
+STR_0976    :Toilet dan Pusat Informasi
+STR_0977    :Wahana Transportasi Baru
+STR_0978    :Wahana Santai Baru
+STR_0979    :Roller Coaster Baru
+STR_0980    :Wahana Menegangkan Baru
+STR_0981    :Wahana Air Baru
+STR_0982    :Toko & Kios Baru
+STR_0983    :Riset & Pengembangan
 STR_0984    :{WINDOW_COLOUR_2}▲{BLACK}  {CURRENCY2DP}
 STR_0985    :{WINDOW_COLOUR_2}▼{BLACK}  {CURRENCY2DP}
 STR_0986    :{BLACK}{CURRENCY2DP}
-STR_0987    :Too many rides/attractions
-STR_0988    :Can't create new ride/attraction...
+STR_0987    :Terlalu banyak wahana/atraksi
+STR_0988    :Tidak bisa membuat wahana/atraksi baru...
 STR_0989    :{STRINGID}
-STR_0990    :{SMALLFONT}{BLACK}Construction
-STR_0991    :Station platform
-STR_0992    :{SMALLFONT}{BLACK}Demolish entire ride/attraction
-STR_0993    :Demolish ride/attraction
-STR_0994    :Demolish
-STR_0995    :{WINDOW_COLOUR_1}Are you sure you want to completely demolish {STRINGID}?
-STR_0996    :Overall view
-STR_0997    :{SMALLFONT}{BLACK}View selection
-STR_0998    :No more stations allowed on this ride
-STR_0999    :Requires a station platform
-STR_1000    :Track is not a complete circuit
-STR_1001    :Track unsuitable for type of train
-STR_1002    :Can't open {POP16}{POP16}{POP16}{STRINGID}...
-STR_1003    :Can't test {POP16}{POP16}{POP16}{STRINGID}...
-STR_1004    :Can't close {POP16}{POP16}{POP16}{STRINGID}...
-STR_1005    :Can't start construction on {POP16}{POP16}{POP16}{STRINGID}...
-STR_1006    :Must be closed first
-STR_1007    :Unable to create enough vehicles
-STR_1008    :{SMALLFONT}{BLACK}Open, close, or test ride/attraction
-STR_1009    :{SMALLFONT}{BLACK}Open or close all rides/attractions
-STR_1010    :{SMALLFONT}{BLACK}Open or close park
-STR_1011    :Close all
-STR_1012    :Open all
-STR_1013    :Close park
-STR_1014    :Open park
+STR_0990    :{SMALLFONT}{BLACK}Kontruksi
+STR_0991    :Platform Stasiun
+STR_0992    :{SMALLFONT}{BLACK}Hancurkan keseluruhan wahana/atraksi
+STR_0993    :Hancurkan wahana/atraksi
+STR_0994    :Hancurkan
+STR_0995    :{WINDOW_COLOUR_1}Apa anda yakin ingin menghancurkan seluruh {STRINGID}?
+STR_0996    :Penglihatan Keseluruhan
+STR_0997    :{SMALLFONT}{BLACK}Seleksi Penglihatan
+STR_0998    :Tidak diperbolehkan ada stasiun lagi di wahana ini
+STR_0999    :Diperlukan sebuah platform stasiun
+STR_1000    :Jalur bukan berupa sirkuit komplit
+STR_1001    :Jalur tidak cocok untuk tipe kereta
+STR_1002    :Tidak dapat membuka {POP16}{POP16}{POP16}{STRINGID}...
+STR_1003    :Tidak dapat tes {POP16}{POP16}{POP16}{STRINGID}...
+STR_1004    :Tidak dapat menutup {POP16}{POP16}{POP16}{STRINGID}...
+STR_1005    :Tidak dapat memulai kontruksi pada {POP16}{POP16}{POP16}{STRINGID}...
+STR_1006    :Harus ditutup terlebih dahulu
+STR_1007    :Tidak dapat membuat kereta yang diperlukan
+STR_1008    :{SMALLFONT}{BLACK}Buka, tutup, atau tes wahana/atraksi
+STR_1009    :{SMALLFONT}{BLACK}Buka atau tutup semua wahana/atraksi
+STR_1010    :{SMALLFONT}{BLACK}Buka atau tutup taman
+STR_1011    :Tutup semua
+STR_1012    :Buka semua
+STR_1013    :Tutup taman
+STR_1014    :Buka taman
 STR_1015    :Unable to operate with more than one station platform in this mode
 STR_1016    :Unable to operate with less than two stations in this mode
 STR_1017    :Can't change operating mode...
