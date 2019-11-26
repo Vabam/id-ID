@@ -275,19 +275,19 @@ STR_0891    :Screenshot
 STR_0892    :Screenshot disimpan di disk sebagai '{STRINGID}'
 STR_0893    :Screenshot gagal !
 STR_0894    :Landscape data area penuh !
-STR_0895    :Can't build partly above and partly below ground
-STR_0896    :{POP16}{POP16}{STRINGID} Construction
-STR_0897    :Direction
-STR_0898    :{SMALLFONT}{BLACK}Left-hand curve
-STR_0899    :{SMALLFONT}{BLACK}Right-hand curve
-STR_0900    :{SMALLFONT}{BLACK}Left-hand curve (small radius)
-STR_0901    :{SMALLFONT}{BLACK}Right-hand curve (small radius)
-STR_0902    :{SMALLFONT}{BLACK}Left-hand curve (very small radius)
-STR_0903    :{SMALLFONT}{BLACK}Right-hand curve (very small radius)
-STR_0904    :{SMALLFONT}{BLACK}Left-hand curve (large radius)
-STR_0905    :{SMALLFONT}{BLACK}Right-hand curve (large radius)
-STR_0906    :{SMALLFONT}{BLACK}Straight
-STR_0907    :Slope
+STR_0895    :Tidak dapat membuat sebagian diatas dan sebagian dibawah tanah
+STR_0896    :{POP16}{POP16}{STRINGID} Kontruksi
+STR_0897    :Arah
+STR_0898    :{SMALLFONT}{BLACK}Lekukan tangan kiri
+STR_0899    :{SMALLFONT}{BLACK}Lekukan tangan kanan
+STR_0900    :{SMALLFONT}{BLACK}Lekukan tangan kiri (radius kecil)
+STR_0901    :{SMALLFONT}{BLACK}Lekukan tangan kanan (radius kecil)
+STR_0902    :{SMALLFONT}{BLACK}Lekukan tangan kiri (radius sangat kecil)
+STR_0903    :{SMALLFONT}{BLACK}Lekukan tangan (radius sangat kecil)
+STR_0904    :{SMALLFONT}{BLACK}Lekukan tangan kiri (radius besar)
+STR_0905    :{SMALLFONT}{BLACK}Lekukan tangan kanan (radius besar)
+STR_0906    :{SMALLFONT}{BLACK}Lurus
+STR_0907    :Tanjakan
 STR_0908    :Roll/Banking
 STR_0909    :Seat Rot.
 STR_0910    :{SMALLFONT}{BLACK}Roll for left-hand curve
