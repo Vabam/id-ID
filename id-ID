@@ -397,32 +397,32 @@ STR_1013    :Tutup taman
 STR_1014    :Buka taman
 STR_1015    :Unable to operate with more than one station platform in this mode
 STR_1016    :Unable to operate with less than two stations in this mode
-STR_1017    :Can't change operating mode...
-STR_1018    :Can't make changes...
-STR_1019    :Can't make changes...
-STR_1020    :Can't make changes...
+STR_1017    :Tidak dapat mengganti mode operasi...
+STR_1018    :Tidak dapat membuat perubahan...
+STR_1019    :Tidak dapat membuat perubahan...
+STR_1020    :Tidak dapat membuat perubahan...
 STR_1021    :{POP16}{POP16}{POP16}{POP16}{STRINGID}
-STR_1022    :{POP16}{POP16}{POP16}{COMMA16} car per train
-STR_1023    :{POP16}{POP16}{POP16}{COMMA16} cars per train
-STR_1024    :{COMMA16} car per train
-STR_1025    :{COMMA16} cars per train
-STR_1026    :Station platform too long!
-STR_1027    :{SMALLFONT}{BLACK}Locate this on Main View
-STR_1028    :Off edge of map!
-STR_1029    :Cannot build partly above and partly below water!
-STR_1030    :Can only build this underwater!
-STR_1031    :Can't build this underwater!
-STR_1032    :Can only build this on water!
-STR_1033    :Can only build this above ground!
-STR_1034    :Can only build this on land!
-STR_1035    :Local authority won't allow construction above tree-height!
-STR_1036    :Load Game
-STR_1037    :Load Landscape
-STR_1038    :Convert saved game to scenario
-STR_1039    :Install new track design
-STR_1040    :Save Game
-STR_1041    :Save Scenario
-STR_1042    :Save Landscape
+STR_1022    :{POP16}{POP16}{POP16}{COMMA16} gerbong per kereta
+STR_1023    :{POP16}{POP16}{POP16}{COMMA16} gerbong per kereta
+STR_1024    :{COMMA16} gerbong per kereta
+STR_1025    :{COMMA16} gerbong per kereta
+STR_1026    :Platform stasiun terlalu panjang!
+STR_1027    :{SMALLFONT}{BLACK}Tempatkan ini di penglihatan utama
+STR_1028    :Diluar batas peta!
+STR_1029    :Tidak dapat membuat sebagian diatas dan sebagian dibawah air!
+STR_1030    :Hanya dapat membuat ini dibawah air!
+STR_1031    :Tidak dapat membuat ini dibawah air!
+STR_1032    :Hanya dapat membuat ini di air!
+STR_1033    :Hanya dapat membuat ini diatas permukaan!
+STR_1034    :Hanya dapat membuat ini di permukaan!
+STR_1035    :Wewenang daerah melarang pembangunan diatas tinggi pohon!
+STR_1036    :Muat Game
+STR_1037    :Muat Landscape
+STR_1038    :Konversi game yang tersimpan ke skenario
+STR_1039    :Pasang desain track baru
+STR_1040    :Simpan Game
+STR_1041    :Simpan Skenario
+STR_1042    :Simpan Landscape
 STR_1043    :OpenRCT2 Saved Game
 STR_1044    :OpenRCT2 Scenario File
 STR_1045    :OpenRCT2 Landscape File
